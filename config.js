@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['201206178781', 'ɢᴏᴊᴏ', true],
-  ['967780763155', 'BOT', true], 
+  ['201154869468', 'ɢᴏᴊᴏ', true],
+  ['201154869468', 'BOT', true], 
   [''] 
 ] //Number of owners
 
@@ -47,15 +47,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝐁𝐎𝐓'
+global.botname = '𓅰𐂐'
 global.premium = 'true'
-global.packname = '𝐁𝐎𝐓' 
-global.author = 'صلي ؏ النبي' 
+global.packname = '𓅰𐂐' 
+global.author = '𝐘 𝐀 𝐒 𝐒 𝐄 𝐍' 
 global.igfg = 'Follow on Instagram\nhttps://instagram.com/mohamedmostafa4769?igshid=ZGUzMzM3NWJiOQ==\n' 
-global.dygp = 'https://chat.whatsapp.com/JcWLIylfbI5I0wazsJ7xEB'
+global.dygp = 'https://chat.whatsapp.com/G4aa9BD5ic81QRWW4AG0fy'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Mo_yt74'
-global.fgpyp = 'https://youtube.com/@Mo_yt74'
+global.fgyt = 'https://youtube.com/@DARK_WEP'
+global.fgpyp = 'https://youtube.com/@DARK_WEP'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
